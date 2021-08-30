@@ -133,6 +133,7 @@ class Minefield extends Array {
   }
 }
 
+
 Minefield.prototype.VALUE_BOMB = -1;
 Minefield.prototype.VALUE_ZERO = 0;
 
